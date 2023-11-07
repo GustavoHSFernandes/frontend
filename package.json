@@ -2,7 +2,7 @@
   "homepage": "https://gustavohsfernandes.github.io/frontend",
   "name": "foodmarket",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@mui/material": "^5.14.17",
     "@rocketseat/unform": "^1.6.2",
