@@ -1,7 +1,6 @@
 import React from "react";
 
 import { Navbar } from "../../components/header/navbar";
-import { pImage } from "./pimage"
 import "./style.css";
 import { Link } from "react-router-dom";
 
