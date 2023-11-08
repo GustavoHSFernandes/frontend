@@ -1,8 +1,8 @@
 {
-  "homepage": "https://gustavohsfernandes.github.io/frontend",
+  "homepage": "https://GustavoHSFernandes.github.io/frontend",
   "name": "frontend",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@mui/material": "^5.14.17",
     "@rocketseat/unform": "^1.6.2",
